@@ -1,0 +1,27 @@
+{
+  "unversionedId": "workplace-surveillance",
+  "id": "workplace-surveillance",
+  "title": "Workplace Surveillance",
+  "description": "Examples",
+  "source": "@site/docs/workplace-surveillance.md",
+  "sourceDirName": ".",
+  "slug": "/workplace-surveillance",
+  "permalink": "/workplace-surveillance",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/workplace-surveillance.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Health Surveillance",
+    "permalink": "/health-surveillance"
+  },
+  "next": {
+    "title": "Educational Surveillance",
+    "permalink": "/educational-surveillance"
+  }
+}

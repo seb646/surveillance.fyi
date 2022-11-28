@@ -1,0 +1,23 @@
+{
+  "unversionedId": "sousveillance",
+  "id": "sousveillance",
+  "title": "Sousveillance",
+  "description": "Sousveillance is a recording or observation by a member of the public, rather than a person or organization in a position of power.",
+  "source": "@site/docs/sousveillance.md",
+  "sourceDirName": ".",
+  "slug": "/sousveillance",
+  "permalink": "/sousveillance",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/sousveillance.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Educational Surveillance",
+    "permalink": "/educational-surveillance"
+  }
+}

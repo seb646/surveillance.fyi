@@ -1,0 +1,27 @@
+{
+  "unversionedId": "educational-surveillance",
+  "id": "educational-surveillance",
+  "title": "Educational Surveillance",
+  "description": "Educational surveillance is a type of surveillance aimed at monitoring students to enforce academic integrity, protect a student population, or gather data on students' performance.",
+  "source": "@site/docs/educational-surveillance.md",
+  "sourceDirName": ".",
+  "slug": "/educational-surveillance",
+  "permalink": "/educational-surveillance",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/educational-surveillance.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Workplace Surveillance",
+    "permalink": "/workplace-surveillance"
+  },
+  "next": {
+    "title": "Sousveillance",
+    "permalink": "/sousveillance"
+  }
+}

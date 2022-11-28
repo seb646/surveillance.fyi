@@ -1,0 +1,27 @@
+{
+  "unversionedId": "mass-surveillance",
+  "id": "mass-surveillance",
+  "title": "Mass Surveillance",
+  "description": "",
+  "source": "@site/docs/mass-surveillance.md",
+  "sourceDirName": ".",
+  "slug": "/mass-surveillance",
+  "permalink": "/docs/mass-surveillance",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/mass-surveillance.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Preface",
+    "permalink": "/docs/preface"
+  },
+  "next": {
+    "title": "Surveillance Capitalism",
+    "permalink": "/docs/surveillance-capitalism"
+  }
+}

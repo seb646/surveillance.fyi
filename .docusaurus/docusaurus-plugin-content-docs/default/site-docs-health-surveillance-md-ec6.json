@@ -1,0 +1,27 @@
+{
+  "unversionedId": "health-surveillance",
+  "id": "health-surveillance",
+  "title": "Health Surveillance",
+  "description": "Examples",
+  "source": "@site/docs/health-surveillance.md",
+  "sourceDirName": ".",
+  "slug": "/health-surveillance",
+  "permalink": "/health-surveillance",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/health-surveillance.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Surveillance Capitalism",
+    "permalink": "/surveillance-capitalism"
+  },
+  "next": {
+    "title": "Workplace Surveillance",
+    "permalink": "/workplace-surveillance"
+  }
+}

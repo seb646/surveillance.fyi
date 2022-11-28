@@ -1,0 +1,16 @@
+{
+  "title": "Programmatic Surveillance",
+  "description": "Programmatic surveillance is any form of surveillance program operated by a government.",
+  "slug": "/category/programmatic-surveillance",
+  "permalink": "/category/programmatic-surveillance",
+  "navigation": {
+    "previous": {
+      "title": "Defining Surveillance",
+      "permalink": "/preface"
+    },
+    "next": {
+      "title": "Intelligence, Surveillance, and Reconnaissance (ISR)",
+      "permalink": "/programmatic-surveillance/intelligence-surveillance-reconnaissance"
+    }
+  }
+}

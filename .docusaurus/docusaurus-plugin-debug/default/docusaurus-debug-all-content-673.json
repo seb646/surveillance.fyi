@@ -1,0 +1,398 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/",
+          "tagsPath": "/tags",
+          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
+          "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/sebastian/Drive/Development/surveillance.fyi/sidebars.js",
+          "contentPath": "/Users/sebastian/Drive/Development/surveillance.fyi/docs",
+          "contentPathLocalized": "/Users/sebastian/Drive/Development/surveillance.fyi/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "educational-surveillance",
+              "id": "educational-surveillance",
+              "title": "Educational Surveillance",
+              "description": "Educational surveillance is a type of surveillance aimed at monitoring students to enforce academic integrity, protect a student population, or gather data on students' performance.",
+              "source": "@site/docs/educational-surveillance.md",
+              "sourceDirName": ".",
+              "slug": "/educational-surveillance",
+              "permalink": "/educational-surveillance",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/educational-surveillance.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Workplace Surveillance",
+                "permalink": "/workplace-surveillance"
+              },
+              "next": {
+                "title": "Sousveillance",
+                "permalink": "/sousveillance"
+              }
+            },
+            {
+              "unversionedId": "health-surveillance",
+              "id": "health-surveillance",
+              "title": "Health Surveillance",
+              "description": "Examples",
+              "source": "@site/docs/health-surveillance.md",
+              "sourceDirName": ".",
+              "slug": "/health-surveillance",
+              "permalink": "/health-surveillance",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/health-surveillance.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Surveillance Capitalism",
+                "permalink": "/surveillance-capitalism"
+              },
+              "next": {
+                "title": "Workplace Surveillance",
+                "permalink": "/workplace-surveillance"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "Introduction",
+              "description": "Let's discover Docusaurus in less than 5 minutes.",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "slug": "/",
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Defining Surveillance",
+                "permalink": "/preface"
+              }
+            },
+            {
+              "unversionedId": "preface",
+              "id": "preface",
+              "title": "Defining Surveillance",
+              "description": "What is surveillance?",
+              "source": "@site/docs/preface.md",
+              "sourceDirName": ".",
+              "slug": "/preface",
+              "permalink": "/preface",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/preface.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/"
+              },
+              "next": {
+                "title": "Programmatic Surveillance",
+                "permalink": "/category/programmatic-surveillance"
+              }
+            },
+            {
+              "unversionedId": "programmatic-surveillance/criminal-surveillance",
+              "id": "programmatic-surveillance/criminal-surveillance",
+              "title": "Criminal Surveillance",
+              "description": "Criminal surveillance is a type of surveillance program aimed at monitoring convicted criminals or suspected criminals. It is most often carried out by law enforcement organizations.",
+              "source": "@site/docs/programmatic-surveillance/criminal-surveillance.md",
+              "sourceDirName": "programmatic-surveillance",
+              "slug": "/programmatic-surveillance/criminal-surveillance",
+              "permalink": "/programmatic-surveillance/criminal-surveillance",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/programmatic-surveillance/criminal-surveillance.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Protective Surveillance",
+                "permalink": "/programmatic-surveillance/protective-surveillance"
+              },
+              "next": {
+                "title": "Surveillance Capitalism",
+                "permalink": "/surveillance-capitalism"
+              }
+            },
+            {
+              "unversionedId": "programmatic-surveillance/intelligence-surveillance-reconnaissance",
+              "id": "programmatic-surveillance/intelligence-surveillance-reconnaissance",
+              "title": "Intelligence, Surveillance, and Reconnaissance (ISR)",
+              "description": "Intelligence, surveillance, and reconnaissance (ISR) is a type of surveillance program aimed at supporting military operations. It is often carried out by a country's military or their private contractors.",
+              "source": "@site/docs/programmatic-surveillance/intelligence-surveillance-reconnaissance.md",
+              "sourceDirName": "programmatic-surveillance",
+              "slug": "/programmatic-surveillance/intelligence-surveillance-reconnaissance",
+              "permalink": "/programmatic-surveillance/intelligence-surveillance-reconnaissance",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/programmatic-surveillance/intelligence-surveillance-reconnaissance.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Programmatic Surveillance",
+                "permalink": "/category/programmatic-surveillance"
+              },
+              "next": {
+                "title": "Mass Surveillance",
+                "permalink": "/programmatic-surveillance/mass-surveillance"
+              }
+            },
+            {
+              "unversionedId": "programmatic-surveillance/mass-surveillance",
+              "id": "programmatic-surveillance/mass-surveillance",
+              "title": "Mass Surveillance",
+              "description": "Mass surveillance is a type of surveillance program that collects vast quantities of data on an entire population.",
+              "source": "@site/docs/programmatic-surveillance/mass-surveillance.md",
+              "sourceDirName": "programmatic-surveillance",
+              "slug": "/programmatic-surveillance/mass-surveillance",
+              "permalink": "/programmatic-surveillance/mass-surveillance",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/programmatic-surveillance/mass-surveillance.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Intelligence, Surveillance, and Reconnaissance (ISR)",
+                "permalink": "/programmatic-surveillance/intelligence-surveillance-reconnaissance"
+              },
+              "next": {
+                "title": "Protective Surveillance",
+                "permalink": "/programmatic-surveillance/protective-surveillance"
+              }
+            },
+            {
+              "unversionedId": "programmatic-surveillance/protective-surveillance",
+              "id": "programmatic-surveillance/protective-surveillance",
+              "title": "Protective Surveillance",
+              "description": "Protective surveillance is a type of surveillance program aimed at protecting an individual, group, or location.",
+              "source": "@site/docs/programmatic-surveillance/protective-surveillance.md",
+              "sourceDirName": "programmatic-surveillance",
+              "slug": "/programmatic-surveillance/protective-surveillance",
+              "permalink": "/programmatic-surveillance/protective-surveillance",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/programmatic-surveillance/protective-surveillance.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Mass Surveillance",
+                "permalink": "/programmatic-surveillance/mass-surveillance"
+              },
+              "next": {
+                "title": "Criminal Surveillance",
+                "permalink": "/programmatic-surveillance/criminal-surveillance"
+              }
+            },
+            {
+              "unversionedId": "sousveillance",
+              "id": "sousveillance",
+              "title": "Sousveillance",
+              "description": "Sousveillance is a recording or observation by a member of the public, rather than a person or organization in a position of power.",
+              "source": "@site/docs/sousveillance.md",
+              "sourceDirName": ".",
+              "slug": "/sousveillance",
+              "permalink": "/sousveillance",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/sousveillance.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_position": 8
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Educational Surveillance",
+                "permalink": "/educational-surveillance"
+              }
+            },
+            {
+              "unversionedId": "surveillance-capitalism",
+              "id": "surveillance-capitalism",
+              "title": "Surveillance Capitalism",
+              "description": "Examples",
+              "source": "@site/docs/surveillance-capitalism.md",
+              "sourceDirName": ".",
+              "slug": "/surveillance-capitalism",
+              "permalink": "/surveillance-capitalism",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/surveillance-capitalism.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Criminal Surveillance",
+                "permalink": "/programmatic-surveillance/criminal-surveillance"
+              },
+              "next": {
+                "title": "Health Surveillance",
+                "permalink": "/health-surveillance"
+              }
+            },
+            {
+              "unversionedId": "workplace-surveillance",
+              "id": "workplace-surveillance",
+              "title": "Workplace Surveillance",
+              "description": "Examples",
+              "source": "@site/docs/workplace-surveillance.md",
+              "sourceDirName": ".",
+              "slug": "/workplace-surveillance",
+              "permalink": "/workplace-surveillance",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/workplace-surveillance.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Health Surveillance",
+                "permalink": "/health-surveillance"
+              },
+              "next": {
+                "title": "Educational Surveillance",
+                "permalink": "/educational-surveillance"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "doc",
+                "id": "preface"
+              },
+              {
+                "type": "category",
+                "label": "Programmatic Surveillance",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "programmatic-surveillance/intelligence-surveillance-reconnaissance"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "programmatic-surveillance/mass-surveillance"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "programmatic-surveillance/protective-surveillance"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "programmatic-surveillance/criminal-surveillance"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Programmatic surveillance is any form of surveillance program operated by a government.",
+                  "slug": "/category/programmatic-surveillance",
+                  "permalink": "/category/programmatic-surveillance"
+                }
+              },
+              {
+                "type": "doc",
+                "id": "surveillance-capitalism"
+              },
+              {
+                "type": "doc",
+                "id": "health-surveillance"
+              },
+              {
+                "type": "doc",
+                "id": "workplace-surveillance"
+              },
+              {
+                "type": "doc",
+                "id": "educational-surveillance"
+              },
+              {
+                "type": "doc",
+                "id": "sousveillance"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

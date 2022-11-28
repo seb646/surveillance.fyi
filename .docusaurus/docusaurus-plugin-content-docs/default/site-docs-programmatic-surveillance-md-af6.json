@@ -1,0 +1,27 @@
+{
+  "unversionedId": "programmatic-surveillance",
+  "id": "programmatic-surveillance",
+  "title": "Programmatic Surveillance",
+  "description": "Programmatic surveillance is any form of surveillance program operated by a government. This includes, but is not limited to, mass surveillance; criminal surveillance; protective surveillance; and intelligence, surveillance, and reconnaissance (ISR).",
+  "source": "@site/docs/programmatic-surveillance.md",
+  "sourceDirName": ".",
+  "slug": "/programmatic-surveillance",
+  "permalink": "/docs/programmatic-surveillance",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/programmatic-surveillance.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Preface",
+    "permalink": "/docs/preface"
+  },
+  "next": {
+    "title": "Surveillance Capitalism",
+    "permalink": "/docs/surveillance-capitalism"
+  }
+}

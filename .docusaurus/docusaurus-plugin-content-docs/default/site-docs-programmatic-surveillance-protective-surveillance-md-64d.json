@@ -1,0 +1,27 @@
+{
+  "unversionedId": "programmatic-surveillance/protective-surveillance",
+  "id": "programmatic-surveillance/protective-surveillance",
+  "title": "Protective Surveillance",
+  "description": "Protective surveillance is a type of surveillance program aimed at protecting an individual, group, or location.",
+  "source": "@site/docs/programmatic-surveillance/protective-surveillance.md",
+  "sourceDirName": "programmatic-surveillance",
+  "slug": "/programmatic-surveillance/protective-surveillance",
+  "permalink": "/programmatic-surveillance/protective-surveillance",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/programmatic-surveillance/protective-surveillance.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mass Surveillance",
+    "permalink": "/programmatic-surveillance/mass-surveillance"
+  },
+  "next": {
+    "title": "Criminal Surveillance",
+    "permalink": "/programmatic-surveillance/criminal-surveillance"
+  }
+}

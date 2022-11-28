@@ -1,0 +1,157 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Introduction",
+        "href": "/",
+        "docId": "intro"
+      },
+      {
+        "type": "link",
+        "label": "Defining Surveillance",
+        "href": "/preface",
+        "docId": "preface"
+      },
+      {
+        "type": "category",
+        "label": "Programmatic Surveillance",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Intelligence, Surveillance, and Reconnaissance (ISR)",
+            "href": "/programmatic-surveillance/intelligence-surveillance-reconnaissance",
+            "docId": "programmatic-surveillance/intelligence-surveillance-reconnaissance"
+          },
+          {
+            "type": "link",
+            "label": "Mass Surveillance",
+            "href": "/programmatic-surveillance/mass-surveillance",
+            "docId": "programmatic-surveillance/mass-surveillance"
+          },
+          {
+            "type": "link",
+            "label": "Protective Surveillance",
+            "href": "/programmatic-surveillance/protective-surveillance",
+            "docId": "programmatic-surveillance/protective-surveillance"
+          },
+          {
+            "type": "link",
+            "label": "Criminal Surveillance",
+            "href": "/programmatic-surveillance/criminal-surveillance",
+            "docId": "programmatic-surveillance/criminal-surveillance"
+          }
+        ],
+        "href": "/category/programmatic-surveillance"
+      },
+      {
+        "type": "link",
+        "label": "Surveillance Capitalism",
+        "href": "/surveillance-capitalism",
+        "docId": "surveillance-capitalism"
+      },
+      {
+        "type": "link",
+        "label": "Health Surveillance",
+        "href": "/health-surveillance",
+        "docId": "health-surveillance"
+      },
+      {
+        "type": "link",
+        "label": "Workplace Surveillance",
+        "href": "/workplace-surveillance",
+        "docId": "workplace-surveillance"
+      },
+      {
+        "type": "link",
+        "label": "Educational Surveillance",
+        "href": "/educational-surveillance",
+        "docId": "educational-surveillance"
+      },
+      {
+        "type": "link",
+        "label": "Sousveillance",
+        "href": "/sousveillance",
+        "docId": "sousveillance"
+      }
+    ]
+  },
+  "docs": {
+    "educational-surveillance": {
+      "id": "educational-surveillance",
+      "title": "Educational Surveillance",
+      "description": "Educational surveillance is a type of surveillance aimed at monitoring students to enforce academic integrity, protect a student population, or gather data on students' performance.",
+      "sidebar": "tutorialSidebar"
+    },
+    "health-surveillance": {
+      "id": "health-surveillance",
+      "title": "Health Surveillance",
+      "description": "Examples",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "Introduction",
+      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "sidebar": "tutorialSidebar"
+    },
+    "preface": {
+      "id": "preface",
+      "title": "Defining Surveillance",
+      "description": "What is surveillance?",
+      "sidebar": "tutorialSidebar"
+    },
+    "programmatic-surveillance/criminal-surveillance": {
+      "id": "programmatic-surveillance/criminal-surveillance",
+      "title": "Criminal Surveillance",
+      "description": "Criminal surveillance is a type of surveillance program aimed at monitoring convicted criminals or suspected criminals. It is most often carried out by law enforcement organizations.",
+      "sidebar": "tutorialSidebar"
+    },
+    "programmatic-surveillance/intelligence-surveillance-reconnaissance": {
+      "id": "programmatic-surveillance/intelligence-surveillance-reconnaissance",
+      "title": "Intelligence, Surveillance, and Reconnaissance (ISR)",
+      "description": "Intelligence, surveillance, and reconnaissance (ISR) is a type of surveillance program aimed at supporting military operations. It is often carried out by a country's military or their private contractors.",
+      "sidebar": "tutorialSidebar"
+    },
+    "programmatic-surveillance/mass-surveillance": {
+      "id": "programmatic-surveillance/mass-surveillance",
+      "title": "Mass Surveillance",
+      "description": "Mass surveillance is a type of surveillance program that collects vast quantities of data on an entire population.",
+      "sidebar": "tutorialSidebar"
+    },
+    "programmatic-surveillance/protective-surveillance": {
+      "id": "programmatic-surveillance/protective-surveillance",
+      "title": "Protective Surveillance",
+      "description": "Protective surveillance is a type of surveillance program aimed at protecting an individual, group, or location.",
+      "sidebar": "tutorialSidebar"
+    },
+    "sousveillance": {
+      "id": "sousveillance",
+      "title": "Sousveillance",
+      "description": "Sousveillance is a recording or observation by a member of the public, rather than a person or organization in a position of power.",
+      "sidebar": "tutorialSidebar"
+    },
+    "surveillance-capitalism": {
+      "id": "surveillance-capitalism",
+      "title": "Surveillance Capitalism",
+      "description": "Examples",
+      "sidebar": "tutorialSidebar"
+    },
+    "workplace-surveillance": {
+      "id": "workplace-surveillance",
+      "title": "Workplace Surveillance",
+      "description": "Examples",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}
