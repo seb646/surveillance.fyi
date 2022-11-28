@@ -6,9 +6,9 @@
   "source": "@site/docs/programmatic-surveillance/criminal-surveillance.md",
   "sourceDirName": "programmatic-surveillance",
   "slug": "/programmatic-surveillance/criminal-surveillance",
-  "permalink": "/surveillance.fyi/programmatic-surveillance/criminal-surveillance",
+  "permalink": "/programmatic-surveillance/criminal-surveillance",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/programmatic-surveillance/criminal-surveillance.md",
+  "editUrl": "https://github.com/seb646/surveillance.fyi/tree/main/docs/programmatic-surveillance/criminal-surveillance.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Protective Surveillance",
-    "permalink": "/surveillance.fyi/programmatic-surveillance/protective-surveillance"
+    "permalink": "/programmatic-surveillance/protective-surveillance"
   },
   "next": {
     "title": "Surveillance Capitalism",
-    "permalink": "/surveillance.fyi/surveillance-capitalism"
+    "permalink": "/surveillance-capitalism"
   }
 }

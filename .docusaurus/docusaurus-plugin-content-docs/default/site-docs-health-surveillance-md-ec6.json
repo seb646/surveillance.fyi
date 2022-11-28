@@ -6,9 +6,9 @@
   "source": "@site/docs/health-surveillance.md",
   "sourceDirName": ".",
   "slug": "/health-surveillance",
-  "permalink": "/surveillance.fyi/health-surveillance",
+  "permalink": "/health-surveillance",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/health-surveillance.md",
+  "editUrl": "https://github.com/seb646/surveillance.fyi/tree/main/docs/health-surveillance.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 5,
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Surveillance Capitalism",
-    "permalink": "/surveillance.fyi/surveillance-capitalism"
+    "permalink": "/surveillance-capitalism"
   },
   "next": {
     "title": "Workplace Surveillance",
-    "permalink": "/surveillance.fyi/workplace-surveillance"
+    "permalink": "/workplace-surveillance"
   }
 }

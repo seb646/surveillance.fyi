@@ -9,10 +9,10 @@
           "badge": false,
           "noIndex": false,
           "className": "docs-version-current",
-          "path": "/surveillance.fyi/",
-          "tagsPath": "/surveillance.fyi/tags",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
-          "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
+          "path": "/",
+          "tagsPath": "/tags",
+          "editUrl": "https://github.com/seb646/surveillance.fyi/tree/main/docs",
+          "editUrlLocalized": "https://github.com/seb646/surveillance.fyi/tree/main/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
           "sidebarFilePath": "/Users/sebastian/Drive/Development/surveillance.fyi/sidebars.js",
@@ -27,9 +27,9 @@
               "source": "@site/docs/educational-surveillance.md",
               "sourceDirName": ".",
               "slug": "/educational-surveillance",
-              "permalink": "/surveillance.fyi/educational-surveillance",
+              "permalink": "/educational-surveillance",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/educational-surveillance.md",
+              "editUrl": "https://github.com/seb646/surveillance.fyi/tree/main/docs/educational-surveillance.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 7,
@@ -39,11 +39,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Workplace Surveillance",
-                "permalink": "/surveillance.fyi/workplace-surveillance"
+                "permalink": "/workplace-surveillance"
               },
               "next": {
                 "title": "Sousveillance",
-                "permalink": "/surveillance.fyi/sousveillance"
+                "permalink": "/sousveillance"
               }
             },
             {
@@ -54,9 +54,9 @@
               "source": "@site/docs/health-surveillance.md",
               "sourceDirName": ".",
               "slug": "/health-surveillance",
-              "permalink": "/surveillance.fyi/health-surveillance",
+              "permalink": "/health-surveillance",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/health-surveillance.md",
+              "editUrl": "https://github.com/seb646/surveillance.fyi/tree/main/docs/health-surveillance.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 5,
@@ -66,11 +66,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Surveillance Capitalism",
-                "permalink": "/surveillance.fyi/surveillance-capitalism"
+                "permalink": "/surveillance-capitalism"
               },
               "next": {
                 "title": "Workplace Surveillance",
-                "permalink": "/surveillance.fyi/workplace-surveillance"
+                "permalink": "/workplace-surveillance"
               }
             },
             {
@@ -81,9 +81,9 @@
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/",
-              "permalink": "/surveillance.fyi/",
+              "permalink": "/",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+              "editUrl": "https://github.com/seb646/surveillance.fyi/tree/main/docs/intro.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -94,7 +94,7 @@
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "Defining Surveillance",
-                "permalink": "/surveillance.fyi/preface"
+                "permalink": "/preface"
               }
             },
             {
@@ -105,9 +105,9 @@
               "source": "@site/docs/preface.md",
               "sourceDirName": ".",
               "slug": "/preface",
-              "permalink": "/surveillance.fyi/preface",
+              "permalink": "/preface",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/preface.md",
+              "editUrl": "https://github.com/seb646/surveillance.fyi/tree/main/docs/preface.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -117,11 +117,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Introduction",
-                "permalink": "/surveillance.fyi/"
+                "permalink": "/"
               },
               "next": {
                 "title": "Programmatic Surveillance",
-                "permalink": "/surveillance.fyi/category/programmatic-surveillance"
+                "permalink": "/category/programmatic-surveillance"
               }
             },
             {
@@ -132,9 +132,9 @@
               "source": "@site/docs/programmatic-surveillance/criminal-surveillance.md",
               "sourceDirName": "programmatic-surveillance",
               "slug": "/programmatic-surveillance/criminal-surveillance",
-              "permalink": "/surveillance.fyi/programmatic-surveillance/criminal-surveillance",
+              "permalink": "/programmatic-surveillance/criminal-surveillance",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/programmatic-surveillance/criminal-surveillance.md",
+              "editUrl": "https://github.com/seb646/surveillance.fyi/tree/main/docs/programmatic-surveillance/criminal-surveillance.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -144,11 +144,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Protective Surveillance",
-                "permalink": "/surveillance.fyi/programmatic-surveillance/protective-surveillance"
+                "permalink": "/programmatic-surveillance/protective-surveillance"
               },
               "next": {
                 "title": "Surveillance Capitalism",
-                "permalink": "/surveillance.fyi/surveillance-capitalism"
+                "permalink": "/surveillance-capitalism"
               }
             },
             {
@@ -159,9 +159,9 @@
               "source": "@site/docs/programmatic-surveillance/intelligence-surveillance-reconnaissance.md",
               "sourceDirName": "programmatic-surveillance",
               "slug": "/programmatic-surveillance/intelligence-surveillance-reconnaissance",
-              "permalink": "/surveillance.fyi/programmatic-surveillance/intelligence-surveillance-reconnaissance",
+              "permalink": "/programmatic-surveillance/intelligence-surveillance-reconnaissance",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/programmatic-surveillance/intelligence-surveillance-reconnaissance.md",
+              "editUrl": "https://github.com/seb646/surveillance.fyi/tree/main/docs/programmatic-surveillance/intelligence-surveillance-reconnaissance.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -171,11 +171,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Programmatic Surveillance",
-                "permalink": "/surveillance.fyi/category/programmatic-surveillance"
+                "permalink": "/category/programmatic-surveillance"
               },
               "next": {
                 "title": "Mass Surveillance",
-                "permalink": "/surveillance.fyi/programmatic-surveillance/mass-surveillance"
+                "permalink": "/programmatic-surveillance/mass-surveillance"
               }
             },
             {
@@ -186,9 +186,9 @@
               "source": "@site/docs/programmatic-surveillance/mass-surveillance.md",
               "sourceDirName": "programmatic-surveillance",
               "slug": "/programmatic-surveillance/mass-surveillance",
-              "permalink": "/surveillance.fyi/programmatic-surveillance/mass-surveillance",
+              "permalink": "/programmatic-surveillance/mass-surveillance",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/programmatic-surveillance/mass-surveillance.md",
+              "editUrl": "https://github.com/seb646/surveillance.fyi/tree/main/docs/programmatic-surveillance/mass-surveillance.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -198,11 +198,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Intelligence, Surveillance, and Reconnaissance (ISR)",
-                "permalink": "/surveillance.fyi/programmatic-surveillance/intelligence-surveillance-reconnaissance"
+                "permalink": "/programmatic-surveillance/intelligence-surveillance-reconnaissance"
               },
               "next": {
                 "title": "Protective Surveillance",
-                "permalink": "/surveillance.fyi/programmatic-surveillance/protective-surveillance"
+                "permalink": "/programmatic-surveillance/protective-surveillance"
               }
             },
             {
@@ -213,9 +213,9 @@
               "source": "@site/docs/programmatic-surveillance/protective-surveillance.md",
               "sourceDirName": "programmatic-surveillance",
               "slug": "/programmatic-surveillance/protective-surveillance",
-              "permalink": "/surveillance.fyi/programmatic-surveillance/protective-surveillance",
+              "permalink": "/programmatic-surveillance/protective-surveillance",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/programmatic-surveillance/protective-surveillance.md",
+              "editUrl": "https://github.com/seb646/surveillance.fyi/tree/main/docs/programmatic-surveillance/protective-surveillance.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -225,11 +225,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Mass Surveillance",
-                "permalink": "/surveillance.fyi/programmatic-surveillance/mass-surveillance"
+                "permalink": "/programmatic-surveillance/mass-surveillance"
               },
               "next": {
                 "title": "Criminal Surveillance",
-                "permalink": "/surveillance.fyi/programmatic-surveillance/criminal-surveillance"
+                "permalink": "/programmatic-surveillance/criminal-surveillance"
               }
             },
             {
@@ -240,9 +240,9 @@
               "source": "@site/docs/sousveillance.md",
               "sourceDirName": ".",
               "slug": "/sousveillance",
-              "permalink": "/surveillance.fyi/sousveillance",
+              "permalink": "/sousveillance",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/sousveillance.md",
+              "editUrl": "https://github.com/seb646/surveillance.fyi/tree/main/docs/sousveillance.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 8,
@@ -252,7 +252,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Educational Surveillance",
-                "permalink": "/surveillance.fyi/educational-surveillance"
+                "permalink": "/educational-surveillance"
               }
             },
             {
@@ -263,9 +263,9 @@
               "source": "@site/docs/surveillance-capitalism.md",
               "sourceDirName": ".",
               "slug": "/surveillance-capitalism",
-              "permalink": "/surveillance.fyi/surveillance-capitalism",
+              "permalink": "/surveillance-capitalism",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/surveillance-capitalism.md",
+              "editUrl": "https://github.com/seb646/surveillance.fyi/tree/main/docs/surveillance-capitalism.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -275,11 +275,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Criminal Surveillance",
-                "permalink": "/surveillance.fyi/programmatic-surveillance/criminal-surveillance"
+                "permalink": "/programmatic-surveillance/criminal-surveillance"
               },
               "next": {
                 "title": "Health Surveillance",
-                "permalink": "/surveillance.fyi/health-surveillance"
+                "permalink": "/health-surveillance"
               }
             },
             {
@@ -290,9 +290,9 @@
               "source": "@site/docs/workplace-surveillance.md",
               "sourceDirName": ".",
               "slug": "/workplace-surveillance",
-              "permalink": "/surveillance.fyi/workplace-surveillance",
+              "permalink": "/workplace-surveillance",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/workplace-surveillance.md",
+              "editUrl": "https://github.com/seb646/surveillance.fyi/tree/main/docs/workplace-surveillance.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 6,
@@ -302,11 +302,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Health Surveillance",
-                "permalink": "/surveillance.fyi/health-surveillance"
+                "permalink": "/health-surveillance"
               },
               "next": {
                 "title": "Educational Surveillance",
-                "permalink": "/surveillance.fyi/educational-surveillance"
+                "permalink": "/educational-surveillance"
               }
             }
           ],
@@ -348,7 +348,7 @@
                   "type": "generated-index",
                   "description": "Programmatic surveillance is any form of surveillance program operated by a government.",
                   "slug": "/category/programmatic-surveillance",
-                  "permalink": "/surveillance.fyi/category/programmatic-surveillance"
+                  "permalink": "/category/programmatic-surveillance"
                 }
               },
               {
@@ -381,7 +381,7 @@
     "default": [
       {
         "type": "mdx",
-        "permalink": "/surveillance.fyi/markdown-page",
+        "permalink": "/markdown-page",
         "source": "@site/src/pages/markdown-page.md",
         "title": "Markdown page example",
         "description": "You don't need React to write simple standalone pages.",

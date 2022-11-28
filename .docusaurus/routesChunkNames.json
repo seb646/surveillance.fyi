@@ -1,106 +1,106 @@
 {
-  "/surveillance.fyi/__docusaurus/debug-db6": {
+  "/__docusaurus/debug-f0b": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
       "plugin": "plugin---docusaurus-debug-04-a-408"
     }
   },
-  "/surveillance.fyi/__docusaurus/debug/config-e28": {
+  "/__docusaurus/debug/config-947": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
       "plugin": "plugin---docusaurus-debug-04-a-408"
     }
   },
-  "/surveillance.fyi/__docusaurus/debug/content-7ba": {
+  "/__docusaurus/debug/content-ac5": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
       "plugin": "plugin---docusaurus-debug-04-a-408"
     },
     "allContent": "allContent---docusaurus-debug-content-246-9aa"
   },
-  "/surveillance.fyi/__docusaurus/debug/globalData-fd6": {
+  "/__docusaurus/debug/globalData-ebb": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
       "plugin": "plugin---docusaurus-debug-04-a-408"
     }
   },
-  "/surveillance.fyi/__docusaurus/debug/metadata-1c9": {
+  "/__docusaurus/debug/metadata-852": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
       "plugin": "plugin---docusaurus-debug-04-a-408"
     }
   },
-  "/surveillance.fyi/__docusaurus/debug/registry-ae8": {
+  "/__docusaurus/debug/registry-d75": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
       "plugin": "plugin---docusaurus-debug-04-a-408"
     }
   },
-  "/surveillance.fyi/__docusaurus/debug/routes-930": {
+  "/__docusaurus/debug/routes-8c3": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
       "plugin": "plugin---docusaurus-debug-04-a-408"
     }
   },
-  "/surveillance.fyi/markdown-page-849": {
+  "/markdown-page-96c": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
       "plugin": "plugin---markdown-page-959-05e"
     },
     "content": "content---markdown-page-393-028"
   },
-  "/surveillance.fyi/-c4a": {
+  "/-07d": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---b-55-7a0"
     },
     "versionMetadata": "versionMetadata---935-fcf"
   },
-  "/surveillance.fyi/-2a5": {
+  "/-96c": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---intro-0-e-3-7b8"
   },
-  "/surveillance.fyi/category/programmatic-surveillance-9fe": {
+  "/category/programmatic-surveillance-06c": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---surveillance-fyi-category-programmatic-surveillancea-26-85f"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-programmatic-surveillance-9-c-1-1d4"
   },
-  "/surveillance.fyi/educational-surveillance-995": {
+  "/educational-surveillance-b9b": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---educational-surveillancec-50-571"
   },
-  "/surveillance.fyi/health-surveillance-752": {
+  "/health-surveillance-7fa": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---health-surveillanceec-6-bf0"
   },
-  "/surveillance.fyi/preface-d8e": {
+  "/preface-7c8": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---prefacee-31-842"
   },
-  "/surveillance.fyi/programmatic-surveillance/criminal-surveillance-dad": {
+  "/programmatic-surveillance/criminal-surveillance-69a": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---programmatic-surveillance-criminal-surveillanced-3-f-bf1"
   },
-  "/surveillance.fyi/programmatic-surveillance/intelligence-surveillance-reconnaissance-cbb": {
+  "/programmatic-surveillance/intelligence-surveillance-reconnaissance-574": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---programmatic-surveillance-intelligence-surveillance-reconnaissanced-5-b-567"
   },
-  "/surveillance.fyi/programmatic-surveillance/mass-surveillance-761": {
+  "/programmatic-surveillance/mass-surveillance-e27": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---programmatic-surveillance-mass-surveillance-973-10a"
   },
-  "/surveillance.fyi/programmatic-surveillance/protective-surveillance-aa9": {
+  "/programmatic-surveillance/protective-surveillance-b34": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---programmatic-surveillance-protective-surveillance-64-d-d8d"
   },
-  "/surveillance.fyi/sousveillance-bf7": {
+  "/sousveillance-0b0": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sousveillance-94-c-a06"
   },
-  "/surveillance.fyi/surveillance-capitalism-990": {
+  "/surveillance-capitalism-98f": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---surveillance-capitalism-640-ed4"
   },
-  "/surveillance.fyi/workplace-surveillance-e4a": {
+  "/workplace-surveillance-445": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---workplace-surveillance-1-c-0-6d9"
   }

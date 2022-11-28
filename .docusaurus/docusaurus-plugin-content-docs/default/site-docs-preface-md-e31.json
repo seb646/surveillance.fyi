@@ -6,9 +6,9 @@
   "source": "@site/docs/preface.md",
   "sourceDirName": ".",
   "slug": "/preface",
-  "permalink": "/surveillance.fyi/preface",
+  "permalink": "/preface",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/preface.md",
+  "editUrl": "https://github.com/seb646/surveillance.fyi/tree/main/docs/preface.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Introduction",
-    "permalink": "/surveillance.fyi/"
+    "permalink": "/"
   },
   "next": {
     "title": "Programmatic Surveillance",
-    "permalink": "/surveillance.fyi/category/programmatic-surveillance"
+    "permalink": "/category/programmatic-surveillance"
   }
 }

@@ -5,9 +5,9 @@
  */
 export default {
   "title": "Surveillance Studies",
-  "tagline": "Dinosaurs are cool",
-  "url": "https://seb646.github.com",
-  "baseUrl": "/surveillance.fyi/",
+  "tagline": "Learn about the various subfields of surveillance studies",
+  "url": "https://surveillance.fyi",
+  "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
@@ -30,7 +30,7 @@ export default {
         "docs": {
           "routeBasePath": "/",
           "sidebarPath": "/Users/sebastian/Drive/Development/surveillance.fyi/sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/seb646/surveillance.fyi/tree/main/"
         },
         "blog": false,
         "theme": {

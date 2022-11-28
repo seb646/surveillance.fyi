@@ -7,9 +7,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Surveillance Studies',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://seb646.github.com',
-  baseUrl: '/surveillance.fyi',
+  tagline: 'Learn about the various subfields of surveillance studies',
+  url: 'https://surveillance.fyi',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -40,7 +40,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/seb646/surveillance.fyi/tree/main/',
         },
         blog: false,
         theme: {

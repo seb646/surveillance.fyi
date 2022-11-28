@@ -1,73 +1,73 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/surveillance.fyi/",
+      "path": "/",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/surveillance.fyi/",
+          "path": "/",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "educational-surveillance",
-              "path": "/surveillance.fyi/educational-surveillance",
+              "path": "/educational-surveillance",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "health-surveillance",
-              "path": "/surveillance.fyi/health-surveillance",
+              "path": "/health-surveillance",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "intro",
-              "path": "/surveillance.fyi/",
+              "path": "/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "preface",
-              "path": "/surveillance.fyi/preface",
+              "path": "/preface",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "programmatic-surveillance/criminal-surveillance",
-              "path": "/surveillance.fyi/programmatic-surveillance/criminal-surveillance",
+              "path": "/programmatic-surveillance/criminal-surveillance",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "programmatic-surveillance/intelligence-surveillance-reconnaissance",
-              "path": "/surveillance.fyi/programmatic-surveillance/intelligence-surveillance-reconnaissance",
+              "path": "/programmatic-surveillance/intelligence-surveillance-reconnaissance",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "programmatic-surveillance/mass-surveillance",
-              "path": "/surveillance.fyi/programmatic-surveillance/mass-surveillance",
+              "path": "/programmatic-surveillance/mass-surveillance",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "programmatic-surveillance/protective-surveillance",
-              "path": "/surveillance.fyi/programmatic-surveillance/protective-surveillance",
+              "path": "/programmatic-surveillance/protective-surveillance",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "sousveillance",
-              "path": "/surveillance.fyi/sousveillance",
+              "path": "/sousveillance",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "surveillance-capitalism",
-              "path": "/surveillance.fyi/surveillance-capitalism",
+              "path": "/surveillance-capitalism",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "workplace-surveillance",
-              "path": "/surveillance.fyi/workplace-surveillance",
+              "path": "/workplace-surveillance",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/programmatic-surveillance",
-              "path": "/surveillance.fyi/category/programmatic-surveillance",
+              "path": "/category/programmatic-surveillance",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -75,7 +75,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/surveillance.fyi/",
+                "path": "/",
                 "label": "intro"
               }
             }
