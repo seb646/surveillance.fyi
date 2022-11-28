@@ -3,118 +3,118 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', 'f0b'),
+    path: '/surveillance.fyi/__docusaurus/debug',
+    component: ComponentCreator('/surveillance.fyi/__docusaurus/debug', 'db6'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '947'),
+    path: '/surveillance.fyi/__docusaurus/debug/config',
+    component: ComponentCreator('/surveillance.fyi/__docusaurus/debug/config', 'e28'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'ac5'),
+    path: '/surveillance.fyi/__docusaurus/debug/content',
+    component: ComponentCreator('/surveillance.fyi/__docusaurus/debug/content', '7ba'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'ebb'),
+    path: '/surveillance.fyi/__docusaurus/debug/globalData',
+    component: ComponentCreator('/surveillance.fyi/__docusaurus/debug/globalData', 'fd6'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '852'),
+    path: '/surveillance.fyi/__docusaurus/debug/metadata',
+    component: ComponentCreator('/surveillance.fyi/__docusaurus/debug/metadata', '1c9'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', 'd75'),
+    path: '/surveillance.fyi/__docusaurus/debug/registry',
+    component: ComponentCreator('/surveillance.fyi/__docusaurus/debug/registry', 'ae8'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '8c3'),
+    path: '/surveillance.fyi/__docusaurus/debug/routes',
+    component: ComponentCreator('/surveillance.fyi/__docusaurus/debug/routes', '930'),
     exact: true
   },
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '96c'),
+    path: '/surveillance.fyi/markdown-page',
+    component: ComponentCreator('/surveillance.fyi/markdown-page', '849'),
     exact: true
   },
   {
-    path: '/',
-    component: ComponentCreator('/', '07d'),
+    path: '/surveillance.fyi/',
+    component: ComponentCreator('/surveillance.fyi/', 'c4a'),
     routes: [
       {
-        path: '/',
-        component: ComponentCreator('/', '96c'),
+        path: '/surveillance.fyi/',
+        component: ComponentCreator('/surveillance.fyi/', '2a5'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/category/programmatic-surveillance',
-        component: ComponentCreator('/category/programmatic-surveillance', '06c'),
+        path: '/surveillance.fyi/category/programmatic-surveillance',
+        component: ComponentCreator('/surveillance.fyi/category/programmatic-surveillance', '9fe'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/educational-surveillance',
-        component: ComponentCreator('/educational-surveillance', 'b9b'),
+        path: '/surveillance.fyi/educational-surveillance',
+        component: ComponentCreator('/surveillance.fyi/educational-surveillance', '995'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/health-surveillance',
-        component: ComponentCreator('/health-surveillance', '7fa'),
+        path: '/surveillance.fyi/health-surveillance',
+        component: ComponentCreator('/surveillance.fyi/health-surveillance', '752'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/preface',
-        component: ComponentCreator('/preface', '7c8'),
+        path: '/surveillance.fyi/preface',
+        component: ComponentCreator('/surveillance.fyi/preface', 'd8e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/programmatic-surveillance/criminal-surveillance',
-        component: ComponentCreator('/programmatic-surveillance/criminal-surveillance', '69a'),
+        path: '/surveillance.fyi/programmatic-surveillance/criminal-surveillance',
+        component: ComponentCreator('/surveillance.fyi/programmatic-surveillance/criminal-surveillance', 'dad'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/programmatic-surveillance/intelligence-surveillance-reconnaissance',
-        component: ComponentCreator('/programmatic-surveillance/intelligence-surveillance-reconnaissance', '574'),
+        path: '/surveillance.fyi/programmatic-surveillance/intelligence-surveillance-reconnaissance',
+        component: ComponentCreator('/surveillance.fyi/programmatic-surveillance/intelligence-surveillance-reconnaissance', 'cbb'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/programmatic-surveillance/mass-surveillance',
-        component: ComponentCreator('/programmatic-surveillance/mass-surveillance', 'e27'),
+        path: '/surveillance.fyi/programmatic-surveillance/mass-surveillance',
+        component: ComponentCreator('/surveillance.fyi/programmatic-surveillance/mass-surveillance', '761'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/programmatic-surveillance/protective-surveillance',
-        component: ComponentCreator('/programmatic-surveillance/protective-surveillance', 'b34'),
+        path: '/surveillance.fyi/programmatic-surveillance/protective-surveillance',
+        component: ComponentCreator('/surveillance.fyi/programmatic-surveillance/protective-surveillance', 'aa9'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/sousveillance',
-        component: ComponentCreator('/sousveillance', '0b0'),
+        path: '/surveillance.fyi/sousveillance',
+        component: ComponentCreator('/surveillance.fyi/sousveillance', 'bf7'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/surveillance-capitalism',
-        component: ComponentCreator('/surveillance-capitalism', '98f'),
+        path: '/surveillance.fyi/surveillance-capitalism',
+        component: ComponentCreator('/surveillance.fyi/surveillance-capitalism', '990'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/workplace-surveillance',
-        component: ComponentCreator('/workplace-surveillance', '445'),
+        path: '/surveillance.fyi/workplace-surveillance',
+        component: ComponentCreator('/surveillance.fyi/workplace-surveillance', 'e4a'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

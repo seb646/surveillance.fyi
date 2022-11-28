@@ -6,13 +6,15 @@
 export default {
   "title": "Surveillance Studies",
   "tagline": "Dinosaurs are cool",
-  "url": "https://your-docusaurus-test-site.com",
-  "baseUrl": "/",
+  "url": "https://seb646.github.com",
+  "baseUrl": "/surveillance.fyi/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
+  "deploymentBranch": "gh-pages",
   "organizationName": "seb646",
   "projectName": "surveillance.fyi",
+  "trailingSlash": false,
   "i18n": {
     "defaultLocale": "en",
     "locales": [

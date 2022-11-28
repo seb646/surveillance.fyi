@@ -12,13 +12,13 @@
       {
         "type": "link",
         "label": "Introduction",
-        "href": "/",
+        "href": "/surveillance.fyi/",
         "docId": "intro"
       },
       {
         "type": "link",
         "label": "Defining Surveillance",
-        "href": "/preface",
+        "href": "/surveillance.fyi/preface",
         "docId": "preface"
       },
       {
@@ -30,58 +30,58 @@
           {
             "type": "link",
             "label": "Intelligence, Surveillance, and Reconnaissance (ISR)",
-            "href": "/programmatic-surveillance/intelligence-surveillance-reconnaissance",
+            "href": "/surveillance.fyi/programmatic-surveillance/intelligence-surveillance-reconnaissance",
             "docId": "programmatic-surveillance/intelligence-surveillance-reconnaissance"
           },
           {
             "type": "link",
             "label": "Mass Surveillance",
-            "href": "/programmatic-surveillance/mass-surveillance",
+            "href": "/surveillance.fyi/programmatic-surveillance/mass-surveillance",
             "docId": "programmatic-surveillance/mass-surveillance"
           },
           {
             "type": "link",
             "label": "Protective Surveillance",
-            "href": "/programmatic-surveillance/protective-surveillance",
+            "href": "/surveillance.fyi/programmatic-surveillance/protective-surveillance",
             "docId": "programmatic-surveillance/protective-surveillance"
           },
           {
             "type": "link",
             "label": "Criminal Surveillance",
-            "href": "/programmatic-surveillance/criminal-surveillance",
+            "href": "/surveillance.fyi/programmatic-surveillance/criminal-surveillance",
             "docId": "programmatic-surveillance/criminal-surveillance"
           }
         ],
-        "href": "/category/programmatic-surveillance"
+        "href": "/surveillance.fyi/category/programmatic-surveillance"
       },
       {
         "type": "link",
         "label": "Surveillance Capitalism",
-        "href": "/surveillance-capitalism",
+        "href": "/surveillance.fyi/surveillance-capitalism",
         "docId": "surveillance-capitalism"
       },
       {
         "type": "link",
         "label": "Health Surveillance",
-        "href": "/health-surveillance",
+        "href": "/surveillance.fyi/health-surveillance",
         "docId": "health-surveillance"
       },
       {
         "type": "link",
         "label": "Workplace Surveillance",
-        "href": "/workplace-surveillance",
+        "href": "/surveillance.fyi/workplace-surveillance",
         "docId": "workplace-surveillance"
       },
       {
         "type": "link",
         "label": "Educational Surveillance",
-        "href": "/educational-surveillance",
+        "href": "/surveillance.fyi/educational-surveillance",
         "docId": "educational-surveillance"
       },
       {
         "type": "link",
         "label": "Sousveillance",
-        "href": "/sousveillance",
+        "href": "/surveillance.fyi/sousveillance",
         "docId": "sousveillance"
       }
     ]
