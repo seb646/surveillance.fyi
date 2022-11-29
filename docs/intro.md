@@ -19,9 +19,9 @@ sidebar_position: 1
 Surveillance is the monitoring of behavior, actions, or information. Surveillance is conducted for a variety of reasons, depending on the target(s) and the person or organization carrying out the surveillance. Governments practice surveillance for counter-terrorism, to fight crime, and to understand and control populations. Corporations practice surveillance to understand their users so they can create tailored content, advertisments, and products for the purpose of earning profit. Everyday citizens conduct surveillance to protect their communities and hold corporations and governments accountable. 
 
 :::info
-This resource is heavily inspired by the works of Gary T. Marx and sava salehi sing. We recommend viewing their work listed below before proceeding:
+This resource is heavily inspired by the works of Gary T. Marx and sava saheli singh. We recommend viewing their work listed below before proceeding:
 - *[Surveillance Studies](https://doi.org/10.1016/b978-0-08-097086-8.64025-4)* by Gary T. Marx
-- *[Screening Surveillance](https://www.screeningsurveillance.com/)* by sava salehi singh
+- *[Screening Surveillance](https://www.screeningsurveillance.com/)* by sava saheli singh
 :::
 ## Contribute
 This resouce is open-source, allowing anyone to contribute to the content, design, and structure of the website. We encourage members of the community to help build, expand, and improve this resource. If you'd like to contribute, please fork our GitHub repository and begin development on your own branch. When you're ready, submit your changes to the project's main branch. Every commit is subject to extensive review for accuracy and use of impartial language. Please cite all of your sources in APA style.
