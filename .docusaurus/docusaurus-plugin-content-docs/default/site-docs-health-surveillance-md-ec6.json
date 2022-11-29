@@ -2,7 +2,7 @@
   "unversionedId": "health-surveillance",
   "id": "health-surveillance",
   "title": "Health Surveillance",
-  "description": "Examples",
+  "description": "Health surveillance (also known as public health surveillance) is \"the ongoing systematic collection, analysis, and interpretation of outcome-specic data essential to the planning, implementation, and evaluation of public health practice, closely integrated with the timely dissemination of these data to those who need to know. Outcomes may include disease, injury, and disability, as well as risk factors, vector exposures, environmental hazards, or other exposures\" (Thacker & Birkhead, 2008).",
   "source": "@site/docs/health-surveillance.md",
   "sourceDirName": ".",
   "slug": "/health-surveillance",
@@ -11,17 +11,17 @@
   "editUrl": "https://github.com/seb646/surveillance.fyi/tree/main/docs/health-surveillance.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 5,
+  "sidebarPosition": 4,
   "frontMatter": {
-    "sidebar_position": 5
+    "sidebar_position": 4
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Surveillance Capitalism",
-    "permalink": "/surveillance-capitalism"
+    "title": "Educational Surveillance",
+    "permalink": "/educational-surveillance"
   },
   "next": {
-    "title": "Workplace Surveillance",
-    "permalink": "/workplace-surveillance"
+    "title": "Luxury Surveillance",
+    "permalink": "/luxury-surveillance"
   }
 }

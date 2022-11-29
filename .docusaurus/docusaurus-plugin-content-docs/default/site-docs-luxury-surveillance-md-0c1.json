@@ -1,0 +1,27 @@
+{
+  "unversionedId": "luxury-surveillance",
+  "id": "luxury-surveillance",
+  "title": "Luxury Surveillance",
+  "description": "Luxury surveillance is a type of surveillance that \"people pay for and whose tracking, monitoring, and quantification features are understood by the user as benefits they are likely to celebrate\" (Gilliard & Golumbia, 2021).",
+  "source": "@site/docs/luxury-surveillance.md",
+  "sourceDirName": ".",
+  "slug": "/luxury-surveillance",
+  "permalink": "/luxury-surveillance",
+  "draft": false,
+  "editUrl": "https://github.com/seb646/surveillance.fyi/tree/main/docs/luxury-surveillance.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Health Surveillance",
+    "permalink": "/health-surveillance"
+  },
+  "next": {
+    "title": "Mass Surveillance",
+    "permalink": "/mass-surveillance"
+  }
+}

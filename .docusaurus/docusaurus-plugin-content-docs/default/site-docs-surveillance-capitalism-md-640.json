@@ -2,7 +2,7 @@
   "unversionedId": "surveillance-capitalism",
   "id": "surveillance-capitalism",
   "title": "Surveillance Capitalism",
-  "description": "Examples",
+  "description": "Surveillance capitalism is the commodification of personal data for the explicit purpose of earning profit. The process typically involves companies leveraging their users' personal data to sell targeted advertisements.",
   "source": "@site/docs/surveillance-capitalism.md",
   "sourceDirName": ".",
   "slug": "/surveillance-capitalism",
@@ -11,17 +11,17 @@
   "editUrl": "https://github.com/seb646/surveillance.fyi/tree/main/docs/surveillance-capitalism.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 4,
+  "sidebarPosition": 8,
   "frontMatter": {
-    "sidebar_position": 4
+    "sidebar_position": 8
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Criminal Surveillance",
-    "permalink": "/programmatic-surveillance/criminal-surveillance"
+    "title": "Sousveillance",
+    "permalink": "/sousveillance"
   },
   "next": {
-    "title": "Health Surveillance",
-    "permalink": "/health-surveillance"
+    "title": "Workplace Surveillance",
+    "permalink": "/workplace-surveillance"
   }
 }

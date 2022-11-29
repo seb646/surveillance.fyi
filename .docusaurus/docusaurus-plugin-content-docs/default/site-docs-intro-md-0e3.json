@@ -2,7 +2,7 @@
   "unversionedId": "intro",
   "id": "intro",
   "title": "Introduction",
-  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "description": "Overview",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/",
@@ -19,6 +19,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Defining Surveillance",
-    "permalink": "/preface"
+    "permalink": "/defining-surveillance"
   }
 }

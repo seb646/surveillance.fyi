@@ -1,0 +1,27 @@
+{
+  "unversionedId": "defining-surveillance",
+  "id": "defining-surveillance",
+  "title": "Defining Surveillance",
+  "description": "This page is heavily inspired by and makes reference to Surveillance Studies by Gary T. Marx. We recommend reading Marx's article before proceeding through this resource.",
+  "source": "@site/docs/defining-surveillance.md",
+  "sourceDirName": ".",
+  "slug": "/defining-surveillance",
+  "permalink": "/defining-surveillance",
+  "draft": false,
+  "editUrl": "https://github.com/seb646/surveillance.fyi/tree/main/docs/defining-surveillance.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/"
+  },
+  "next": {
+    "title": "Educational Surveillance",
+    "permalink": "/educational-surveillance"
+  }
+}

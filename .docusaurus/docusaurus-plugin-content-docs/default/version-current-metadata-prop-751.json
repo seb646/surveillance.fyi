@@ -18,59 +18,8 @@
       {
         "type": "link",
         "label": "Defining Surveillance",
-        "href": "/preface",
-        "docId": "preface"
-      },
-      {
-        "type": "category",
-        "label": "Programmatic Surveillance",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "Intelligence, Surveillance, and Reconnaissance (ISR)",
-            "href": "/programmatic-surveillance/intelligence-surveillance-reconnaissance",
-            "docId": "programmatic-surveillance/intelligence-surveillance-reconnaissance"
-          },
-          {
-            "type": "link",
-            "label": "Mass Surveillance",
-            "href": "/programmatic-surveillance/mass-surveillance",
-            "docId": "programmatic-surveillance/mass-surveillance"
-          },
-          {
-            "type": "link",
-            "label": "Protective Surveillance",
-            "href": "/programmatic-surveillance/protective-surveillance",
-            "docId": "programmatic-surveillance/protective-surveillance"
-          },
-          {
-            "type": "link",
-            "label": "Criminal Surveillance",
-            "href": "/programmatic-surveillance/criminal-surveillance",
-            "docId": "programmatic-surveillance/criminal-surveillance"
-          }
-        ],
-        "href": "/category/programmatic-surveillance"
-      },
-      {
-        "type": "link",
-        "label": "Surveillance Capitalism",
-        "href": "/surveillance-capitalism",
-        "docId": "surveillance-capitalism"
-      },
-      {
-        "type": "link",
-        "label": "Health Surveillance",
-        "href": "/health-surveillance",
-        "docId": "health-surveillance"
-      },
-      {
-        "type": "link",
-        "label": "Workplace Surveillance",
-        "href": "/workplace-surveillance",
-        "docId": "workplace-surveillance"
+        "href": "/defining-surveillance",
+        "docId": "defining-surveillance"
       },
       {
         "type": "link",
@@ -80,77 +29,95 @@
       },
       {
         "type": "link",
+        "label": "Health Surveillance",
+        "href": "/health-surveillance",
+        "docId": "health-surveillance"
+      },
+      {
+        "type": "link",
+        "label": "Luxury Surveillance",
+        "href": "/luxury-surveillance",
+        "docId": "luxury-surveillance"
+      },
+      {
+        "type": "link",
+        "label": "Mass Surveillance",
+        "href": "/mass-surveillance",
+        "docId": "mass-surveillance"
+      },
+      {
+        "type": "link",
         "label": "Sousveillance",
         "href": "/sousveillance",
         "docId": "sousveillance"
+      },
+      {
+        "type": "link",
+        "label": "Surveillance Capitalism",
+        "href": "/surveillance-capitalism",
+        "docId": "surveillance-capitalism"
+      },
+      {
+        "type": "link",
+        "label": "Workplace Surveillance",
+        "href": "/workplace-surveillance",
+        "docId": "workplace-surveillance"
       }
     ]
   },
   "docs": {
+    "defining-surveillance": {
+      "id": "defining-surveillance",
+      "title": "Defining Surveillance",
+      "description": "This page is heavily inspired by and makes reference to Surveillance Studies by Gary T. Marx. We recommend reading Marx's article before proceeding through this resource.",
+      "sidebar": "tutorialSidebar"
+    },
     "educational-surveillance": {
       "id": "educational-surveillance",
       "title": "Educational Surveillance",
-      "description": "Educational surveillance is a type of surveillance aimed at monitoring students to enforce academic integrity, protect a student population, or gather data on students' performance.",
+      "description": "Educational surveillance is a type of surveillance aimed at monitoring students. Educational surveillance typically assumes two forms: monitoring a student's performance and academic integrity, and monitoring a student's threat to their school and their peers.",
       "sidebar": "tutorialSidebar"
     },
     "health-surveillance": {
       "id": "health-surveillance",
       "title": "Health Surveillance",
-      "description": "Examples",
+      "description": "Health surveillance (also known as public health surveillance) is \"the ongoing systematic collection, analysis, and interpretation of outcome-specic data essential to the planning, implementation, and evaluation of public health practice, closely integrated with the timely dissemination of these data to those who need to know. Outcomes may include disease, injury, and disability, as well as risk factors, vector exposures, environmental hazards, or other exposures\" (Thacker & Birkhead, 2008).",
       "sidebar": "tutorialSidebar"
     },
     "intro": {
       "id": "intro",
       "title": "Introduction",
-      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "description": "Overview",
       "sidebar": "tutorialSidebar"
     },
-    "preface": {
-      "id": "preface",
-      "title": "Defining Surveillance",
-      "description": "What is surveillance?",
+    "luxury-surveillance": {
+      "id": "luxury-surveillance",
+      "title": "Luxury Surveillance",
+      "description": "Luxury surveillance is a type of surveillance that \"people pay for and whose tracking, monitoring, and quantification features are understood by the user as benefits they are likely to celebrate\" (Gilliard & Golumbia, 2021).",
       "sidebar": "tutorialSidebar"
     },
-    "programmatic-surveillance/criminal-surveillance": {
-      "id": "programmatic-surveillance/criminal-surveillance",
-      "title": "Criminal Surveillance",
-      "description": "Criminal surveillance is a type of surveillance program aimed at monitoring convicted criminals or suspected criminals. It is most often carried out by law enforcement organizations.",
-      "sidebar": "tutorialSidebar"
-    },
-    "programmatic-surveillance/intelligence-surveillance-reconnaissance": {
-      "id": "programmatic-surveillance/intelligence-surveillance-reconnaissance",
-      "title": "Intelligence, Surveillance, and Reconnaissance (ISR)",
-      "description": "Intelligence, surveillance, and reconnaissance (ISR) is a type of surveillance program aimed at supporting military operations. It is often carried out by a country's military or their private contractors.",
-      "sidebar": "tutorialSidebar"
-    },
-    "programmatic-surveillance/mass-surveillance": {
-      "id": "programmatic-surveillance/mass-surveillance",
+    "mass-surveillance": {
+      "id": "mass-surveillance",
       "title": "Mass Surveillance",
-      "description": "Mass surveillance is a type of surveillance program that collects vast quantities of data on an entire population.",
-      "sidebar": "tutorialSidebar"
-    },
-    "programmatic-surveillance/protective-surveillance": {
-      "id": "programmatic-surveillance/protective-surveillance",
-      "title": "Protective Surveillance",
-      "description": "Protective surveillance is a type of surveillance program aimed at protecting an individual, group, or location.",
+      "description": "Mass surveillance is a type of surveillance program that collects vast quantities of data on an entire population. This form of surveillance is often conducted by local and federal governments to fight terrorism, prevent crime, and control a population.",
       "sidebar": "tutorialSidebar"
     },
     "sousveillance": {
       "id": "sousveillance",
       "title": "Sousveillance",
-      "description": "Sousveillance is a recording or observation by a member of the public, rather than a person or organization in a position of power.",
+      "description": "Sousveillance is a recording or observation by a member of the public, rather than a person or organization in a position of power. It typically includes a citizen recording abuse of power or illegal activity by those in positions of power.",
       "sidebar": "tutorialSidebar"
     },
     "surveillance-capitalism": {
       "id": "surveillance-capitalism",
       "title": "Surveillance Capitalism",
-      "description": "Examples",
+      "description": "Surveillance capitalism is the commodification of personal data for the explicit purpose of earning profit. The process typically involves companies leveraging their users' personal data to sell targeted advertisements.",
       "sidebar": "tutorialSidebar"
     },
     "workplace-surveillance": {
       "id": "workplace-surveillance",
       "title": "Workplace Surveillance",
-      "description": "Examples",
+      "description": "Workplace surveillance (also called employee monitoring) is when an organization monitors their employees. The premise for workplace surveillance is to track an employee's performance, avoid legal liability, protect trade secrets, and other similar reasons.",
       "sidebar": "tutorialSidebar"
     }
   }

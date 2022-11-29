@@ -11,6 +11,11 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "defining-surveillance",
+              "path": "/defining-surveillance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "educational-surveillance",
               "path": "/educational-surveillance",
               "sidebar": "tutorialSidebar"
@@ -26,28 +31,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "preface",
-              "path": "/preface",
+              "id": "luxury-surveillance",
+              "path": "/luxury-surveillance",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "programmatic-surveillance/criminal-surveillance",
-              "path": "/programmatic-surveillance/criminal-surveillance",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "programmatic-surveillance/intelligence-surveillance-reconnaissance",
-              "path": "/programmatic-surveillance/intelligence-surveillance-reconnaissance",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "programmatic-surveillance/mass-surveillance",
-              "path": "/programmatic-surveillance/mass-surveillance",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "programmatic-surveillance/protective-surveillance",
-              "path": "/programmatic-surveillance/protective-surveillance",
+              "id": "mass-surveillance",
+              "path": "/mass-surveillance",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -63,11 +53,6 @@
             {
               "id": "workplace-surveillance",
               "path": "/workplace-surveillance",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/programmatic-surveillance",
-              "path": "/category/programmatic-surveillance",
               "sidebar": "tutorialSidebar"
             }
           ],

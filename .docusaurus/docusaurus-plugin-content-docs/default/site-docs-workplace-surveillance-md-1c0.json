@@ -2,7 +2,7 @@
   "unversionedId": "workplace-surveillance",
   "id": "workplace-surveillance",
   "title": "Workplace Surveillance",
-  "description": "Examples",
+  "description": "Workplace surveillance (also called employee monitoring) is when an organization monitors their employees. The premise for workplace surveillance is to track an employee's performance, avoid legal liability, protect trade secrets, and other similar reasons.",
   "source": "@site/docs/workplace-surveillance.md",
   "sourceDirName": ".",
   "slug": "/workplace-surveillance",
@@ -11,17 +11,13 @@
   "editUrl": "https://github.com/seb646/surveillance.fyi/tree/main/docs/workplace-surveillance.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 6,
+  "sidebarPosition": 9,
   "frontMatter": {
-    "sidebar_position": 6
+    "sidebar_position": 9
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Health Surveillance",
-    "permalink": "/health-surveillance"
-  },
-  "next": {
-    "title": "Educational Surveillance",
-    "permalink": "/educational-surveillance"
+    "title": "Surveillance Capitalism",
+    "permalink": "/surveillance-capitalism"
   }
 }
