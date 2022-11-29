@@ -1,95 +1,52 @@
 {
-  "/__docusaurus/debug-f0b": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-04-a-408"
-    }
-  },
-  "/__docusaurus/debug/config-947": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-04-a-408"
-    }
-  },
-  "/__docusaurus/debug/content-ac5": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-04-a-408"
-    },
-    "allContent": "allContent---docusaurus-debug-content-246-9aa"
-  },
-  "/__docusaurus/debug/globalData-ebb": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-04-a-408"
-    }
-  },
-  "/__docusaurus/debug/metadata-852": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-04-a-408"
-    }
-  },
-  "/__docusaurus/debug/registry-d75": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-04-a-408"
-    }
-  },
-  "/__docusaurus/debug/routes-8c3": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-04-a-408"
-    }
-  },
   "/markdown-page-96c": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---markdown-page-959-05e"
+      "plugin": "9591c712"
     },
-    "content": "content---markdown-page-393-028"
+    "content": "393be207"
   },
   "/-8e6": {
-    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__comp": "1be78505",
     "__context": {
-      "plugin": "plugin---b-55-7a0"
+      "plugin": "b5547d5a"
     },
-    "versionMetadata": "versionMetadata---935-fcf"
+    "versionMetadata": "935f2afb"
   },
   "/-96c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---0-e-3-279"
+    "__comp": "17896441",
+    "content": "0e384e19"
   },
   "/educational-surveillance-b9b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---educational-surveillancec-50-571"
+    "__comp": "17896441",
+    "content": "c5061746"
   },
   "/health-surveillance-7fa": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---health-surveillanceec-6-bf0"
+    "__comp": "17896441",
+    "content": "ec6fdca4"
   },
   "/luxury-surveillance-f62": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---luxury-surveillance-0-c-1-d02"
+    "__comp": "17896441",
+    "content": "0c184af4"
   },
   "/mass-surveillance-3a9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---mass-surveillance-918-b1f"
+    "__comp": "17896441",
+    "content": "91858af4"
   },
   "/resources-70f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---resourcesd-92-d89"
+    "__comp": "17896441",
+    "content": "d92a3c43"
   },
   "/sousveillance-0b0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---sousveillance-94-c-a06"
+    "__comp": "17896441",
+    "content": "94cdfd17"
   },
   "/surveillance-capitalism-98f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---surveillance-capitalism-640-ed4"
+    "__comp": "17896441",
+    "content": "640fe8c2"
   },
   "/workplace-surveillance-445": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workplace-surveillance-1-c-0-6d9"
+    "__comp": "17896441",
+    "content": "1c01d586"
   }
 }
