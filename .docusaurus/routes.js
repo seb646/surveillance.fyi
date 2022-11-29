@@ -44,7 +44,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '91e'),
+    component: ComponentCreator('/', '8e6'),
     routes: [
       {
         path: '/',
@@ -73,6 +73,12 @@ export default [
       {
         path: '/mass-surveillance',
         component: ComponentCreator('/mass-surveillance', '3a9'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/resources',
+        component: ComponentCreator('/resources', '70f'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

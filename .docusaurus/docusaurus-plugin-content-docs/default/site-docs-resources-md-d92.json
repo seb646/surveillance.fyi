@@ -1,0 +1,23 @@
+{
+  "unversionedId": "resources",
+  "id": "resources",
+  "title": "Resources",
+  "description": "- Brennan Center for Justice @ New York University",
+  "source": "@site/docs/resources.md",
+  "sourceDirName": ".",
+  "slug": "/resources",
+  "permalink": "/resources",
+  "draft": false,
+  "editUrl": "https://github.com/seb646/surveillance.fyi/tree/main/docs/resources.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Workplace Surveillance",
+    "permalink": "/workplace-surveillance"
+  }
+}

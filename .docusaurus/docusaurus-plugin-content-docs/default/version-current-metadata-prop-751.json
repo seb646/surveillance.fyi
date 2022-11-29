@@ -56,6 +56,12 @@
         "label": "Workplace Surveillance",
         "href": "/workplace-surveillance",
         "docId": "workplace-surveillance"
+      },
+      {
+        "type": "link",
+        "label": "Resources",
+        "href": "/resources",
+        "docId": "resources"
       }
     ]
   },
@@ -88,6 +94,12 @@
       "id": "mass-surveillance",
       "title": "Mass Surveillance",
       "description": "Mass surveillance is a type of surveillance program that collects vast quantities of data on an entire population. This form of surveillance is often conducted by local and federal governments to fight terrorism, prevent crime, and control a population.",
+      "sidebar": "tutorialSidebar"
+    },
+    "resources": {
+      "id": "resources",
+      "title": "Resources",
+      "description": "- Brennan Center for Justice @ New York University",
       "sidebar": "tutorialSidebar"
     },
     "sousveillance": {

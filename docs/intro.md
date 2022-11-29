@@ -17,7 +17,9 @@ sidebar_position: 1
 
 ### What is surveillance?
 :::info
-This resource is inspired by Gary T. Marx's *[Surveillance Studies](https://doi.org/10.1016/b978-0-08-097086-8.64025-4)*. We recommend reading Marx's article before proceeding.
+This resource is heavily inspired by the works of Gary T. Marx and sava salehi sing. We recommend viewing their work listed below before proceeding:
+- *[Surveillance Studies](https://doi.org/10.1016/b978-0-08-097086-8.64025-4)* by Gary T. Marx
+- *[Screening Surveillance](https://www.screeningsurveillance.com/)* by sava salehi singh
 :::
 Surveillance is the monitoring of behavior, actions, or information. Surveillance is conducted for a variety of reasons, depending on the target(s) and the person or organization carrying out the surveillance. Governments practice surveillance for counter-terrorism, to fight crime, and to understand and control populations. Corporations practice surveillance to understand their users so they can create tailored content, advertisments, and products for the purpose of earning profit. Everyday citizens conduct surveillance to protect their communities and hold corporations and governments accountable. 
 
