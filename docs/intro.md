@@ -8,8 +8,11 @@ sidebar_position: 1
 <div class="main-pg-logo">
 
 ![Surveillance eye](https://surveillance.fyi/img/surveillance.svg)
-## Surveillance Studies
 
+<div class="title">
+<h2>Surveillance.fyi</h2>
+<p>An introduction to surveillance studies</p>
+</div>
 </div>
 
 ## Overview

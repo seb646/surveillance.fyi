@@ -48,3 +48,9 @@
 .main-pg-logo p{
   margin-bottom: 0;
 }
+.main-pg-logo .title h2{
+  margin-bottom: 0;
+}
+.main-pg-logo .title p{
+  font-weight: medium;
+}
