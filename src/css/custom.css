@@ -34,3 +34,17 @@
   --ifm-theme-doc-sidebar-background: #18191a;
   --ifm-theme-doc-sidebar-border: #5f6770;
 }
+
+.main-pg-logo{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.main-pg-logo img{
+  width: 125px;
+  margin-right: 15px;
+}
+.main-pg-logo p{
+  margin-bottom: 0;
+}

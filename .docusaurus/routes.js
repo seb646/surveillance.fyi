@@ -44,17 +44,11 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'e44'),
+    component: ComponentCreator('/', '91e'),
     routes: [
       {
         path: '/',
         component: ComponentCreator('/', '96c'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/defining-surveillance',
-        component: ComponentCreator('/defining-surveillance', 'f22'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

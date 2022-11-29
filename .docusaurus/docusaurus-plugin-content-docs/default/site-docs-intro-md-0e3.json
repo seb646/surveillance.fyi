@@ -2,7 +2,7 @@
   "unversionedId": "intro",
   "id": "intro",
   "title": "Introduction",
-  "description": "Overview",
+  "description": "Surveillance eye",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/",
@@ -18,7 +18,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Defining Surveillance",
-    "permalink": "/defining-surveillance"
+    "title": "Educational Surveillance",
+    "permalink": "/educational-surveillance"
   }
 }

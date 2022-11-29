@@ -4,7 +4,7 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "Surveillance Studies",
+  "title": "Surveillance.fyi",
   "tagline": "Learn about the various subfields of surveillance studies",
   "url": "https://surveillance.fyi",
   "baseUrl": "/",
@@ -41,7 +41,7 @@ export default {
   ],
   "themeConfig": {
     "navbar": {
-      "title": "Surveillance Studies",
+      "title": "Surveillance.fyi",
       "logo": {
         "alt": "Surveillance Logo",
         "src": "img/surveillance.svg"

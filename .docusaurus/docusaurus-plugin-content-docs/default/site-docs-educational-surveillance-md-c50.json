@@ -2,7 +2,7 @@
   "unversionedId": "educational-surveillance",
   "id": "educational-surveillance",
   "title": "Educational Surveillance",
-  "description": "Educational surveillance is a type of surveillance aimed at monitoring students. Educational surveillance typically assumes two forms: monitoring a student's performance and academic integrity, and monitoring a student's threat to their school and their peers.",
+  "description": "Educational surveillance is the surveillance and monitoring of students. Educational surveillance typically assumes two forms: monitoring a student's performance and academic integrity, and monitoring a student's threat to their school and their peers.",
   "source": "@site/docs/educational-surveillance.md",
   "sourceDirName": ".",
   "slug": "/educational-surveillance",
@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Defining Surveillance",
-    "permalink": "/defining-surveillance"
+    "title": "Introduction",
+    "permalink": "/"
   },
   "next": {
     "title": "Health Surveillance",

@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Surveillance Studies',
+  title: 'Surveillance.fyi',
   tagline: 'Learn about the various subfields of surveillance studies',
   url: 'https://surveillance.fyi',
   baseUrl: '/',
@@ -54,7 +54,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Surveillance Studies',
+        title: 'Surveillance.fyi',
         logo: {
           alt: 'Surveillance Logo',
           src: 'img/surveillance.svg',

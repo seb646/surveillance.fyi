@@ -20,37 +20,10 @@
           "contentPathLocalized": "/Users/sebastian/Drive/Development/surveillance.fyi/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
-              "unversionedId": "defining-surveillance",
-              "id": "defining-surveillance",
-              "title": "Defining Surveillance",
-              "description": "This page is heavily inspired by and makes reference to Surveillance Studies by Gary T. Marx. We recommend reading Marx's article before proceeding through this resource.",
-              "source": "@site/docs/defining-surveillance.md",
-              "sourceDirName": ".",
-              "slug": "/defining-surveillance",
-              "permalink": "/defining-surveillance",
-              "draft": false,
-              "editUrl": "https://github.com/seb646/surveillance.fyi/tree/main/docs/defining-surveillance.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Introduction",
-                "permalink": "/"
-              },
-              "next": {
-                "title": "Educational Surveillance",
-                "permalink": "/educational-surveillance"
-              }
-            },
-            {
               "unversionedId": "educational-surveillance",
               "id": "educational-surveillance",
               "title": "Educational Surveillance",
-              "description": "Educational surveillance is a type of surveillance aimed at monitoring students. Educational surveillance typically assumes two forms: monitoring a student's performance and academic integrity, and monitoring a student's threat to their school and their peers.",
+              "description": "Educational surveillance is the surveillance and monitoring of students. Educational surveillance typically assumes two forms: monitoring a student's performance and academic integrity, and monitoring a student's threat to their school and their peers.",
               "source": "@site/docs/educational-surveillance.md",
               "sourceDirName": ".",
               "slug": "/educational-surveillance",
@@ -65,8 +38,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Defining Surveillance",
-                "permalink": "/defining-surveillance"
+                "title": "Introduction",
+                "permalink": "/"
               },
               "next": {
                 "title": "Health Surveillance",
@@ -77,7 +50,7 @@
               "unversionedId": "health-surveillance",
               "id": "health-surveillance",
               "title": "Health Surveillance",
-              "description": "Health surveillance (also known as public health surveillance) is \"the ongoing systematic collection, analysis, and interpretation of outcome-specic data essential to the planning, implementation, and evaluation of public health practice, closely integrated with the timely dissemination of these data to those who need to know. Outcomes may include disease, injury, and disability, as well as risk factors, vector exposures, environmental hazards, or other exposures\" (Thacker & Birkhead, 2008).",
+              "description": "Health surveillance (also known as public health surveillance) is \"the ongoing systematic collection, analysis, and interpretation of outcome-specic data essential to the planning, implementation, and evaluation of public health practice, closely integrated with the timely dissemination of these data to those who need to know\" (Thacker & Birkhead, 2008).",
               "source": "@site/docs/health-surveillance.md",
               "sourceDirName": ".",
               "slug": "/health-surveillance",
@@ -104,7 +77,7 @@
               "unversionedId": "intro",
               "id": "intro",
               "title": "Introduction",
-              "description": "Overview",
+              "description": "Surveillance eye",
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/",
@@ -120,8 +93,8 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Defining Surveillance",
-                "permalink": "/defining-surveillance"
+                "title": "Educational Surveillance",
+                "permalink": "/educational-surveillance"
               }
             },
             {
@@ -262,10 +235,6 @@
               {
                 "type": "doc",
                 "id": "intro"
-              },
-              {
-                "type": "doc",
-                "id": "defining-surveillance"
               },
               {
                 "type": "doc",

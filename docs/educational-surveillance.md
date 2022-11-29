@@ -3,7 +3,7 @@ sidebar_position: 3
 ---
 
 # Educational Surveillance
-**Educational surveillance** is a type of surveillance aimed at monitoring students. Educational surveillance typically assumes two forms: monitoring a student's performance and academic integrity, and monitoring a student's threat to their school and their peers. 
+**Educational surveillance** is the surveillance and monitoring of students. Educational surveillance typically assumes two forms: monitoring a student's performance and academic integrity, and monitoring a student's threat to their school and their peers. 
 
 ## Examples
 - CCTV cameras in schools

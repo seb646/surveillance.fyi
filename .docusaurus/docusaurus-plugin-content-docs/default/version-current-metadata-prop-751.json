@@ -17,12 +17,6 @@
       },
       {
         "type": "link",
-        "label": "Defining Surveillance",
-        "href": "/defining-surveillance",
-        "docId": "defining-surveillance"
-      },
-      {
-        "type": "link",
         "label": "Educational Surveillance",
         "href": "/educational-surveillance",
         "docId": "educational-surveillance"
@@ -66,28 +60,22 @@
     ]
   },
   "docs": {
-    "defining-surveillance": {
-      "id": "defining-surveillance",
-      "title": "Defining Surveillance",
-      "description": "This page is heavily inspired by and makes reference to Surveillance Studies by Gary T. Marx. We recommend reading Marx's article before proceeding through this resource.",
-      "sidebar": "tutorialSidebar"
-    },
     "educational-surveillance": {
       "id": "educational-surveillance",
       "title": "Educational Surveillance",
-      "description": "Educational surveillance is a type of surveillance aimed at monitoring students. Educational surveillance typically assumes two forms: monitoring a student's performance and academic integrity, and monitoring a student's threat to their school and their peers.",
+      "description": "Educational surveillance is the surveillance and monitoring of students. Educational surveillance typically assumes two forms: monitoring a student's performance and academic integrity, and monitoring a student's threat to their school and their peers.",
       "sidebar": "tutorialSidebar"
     },
     "health-surveillance": {
       "id": "health-surveillance",
       "title": "Health Surveillance",
-      "description": "Health surveillance (also known as public health surveillance) is \"the ongoing systematic collection, analysis, and interpretation of outcome-specic data essential to the planning, implementation, and evaluation of public health practice, closely integrated with the timely dissemination of these data to those who need to know. Outcomes may include disease, injury, and disability, as well as risk factors, vector exposures, environmental hazards, or other exposures\" (Thacker & Birkhead, 2008).",
+      "description": "Health surveillance (also known as public health surveillance) is \"the ongoing systematic collection, analysis, and interpretation of outcome-specic data essential to the planning, implementation, and evaluation of public health practice, closely integrated with the timely dissemination of these data to those who need to know\" (Thacker & Birkhead, 2008).",
       "sidebar": "tutorialSidebar"
     },
     "intro": {
       "id": "intro",
       "title": "Introduction",
-      "description": "Overview",
+      "description": "Surveillance eye",
       "sidebar": "tutorialSidebar"
     },
     "luxury-surveillance": {
