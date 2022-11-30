@@ -5,7 +5,9 @@ sidebar_position: 7
 # Sousveillance
 **Sousveillance** is a recording or observation by a member of the public, rather than a person or organization in a position of power. It typically includes a citizen recording abuse of power or illegal activity by those in positions of power.  
 
-The etymology of the word sousveillance stems from the French word "sous", meaning "below", as opposed to the "sur" in surveillance, which means "above". Sousveillance roughly means "watching from below", whereas surveillance roughly means "watching from above". 
+:::note Etymology
+The word sousveillance stems from the French word "sous", meaning "below", as opposed to the "sur" in surveillance, which means "above". Sousveillance roughly means "watching from below", whereas surveillance roughly means "watching from above". 
+:::
 
 ## Examples
 - Citizens recording police brutality, government corruption, and similar forms of abuse
